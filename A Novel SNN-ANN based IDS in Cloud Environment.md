@@ -7,6 +7,6 @@
 -> 이러한 시스템을 neural system의 생물학적 모델에 더 가깝게 만들기 위해 저자는 높은 효율의 IDS를 만들기위해 SNN을 배치하였다.  
 ##### SNN은 단순화된 수학 모델인 artificial neuron model보다 biological neuron을 더 가깝게 모방하는 spiking neuron을 배치한다.  
 -> 저자들은 NSL-KDD dataset을 사용하여 네트워크의 악의적인 연결을 식별하고 공격 유형으로 분류하는 데 높은 수준의 정확도를 달성하는 hybrid SNN-ANN model을 제안한다.  
-
+***
 ### Introduction  
 클라우드는 연산력이나 저장 공간과 같은 컴퓨터 자원들을 pooling하는 아이디어의 구현입니다.  
