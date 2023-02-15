@@ -2,7 +2,7 @@
 ### Abstract  
 ##### 최근 cloud-based servers에서 제공되는 서비스의 수가 급증함에 따라 이러한 플랫폼의 보안에 대한 우려 제기  
 -> 시스템 관리자가 클라우드 플랫폼의 악의적인 활동을 인식/경고할 수 있는 시스템을 구축하는 것이 중요하다.  
--> 위협을 잘 이해/완화하기 위해 cloud server에 대한 공격의 종류를 아는 것이 바람직하다.  
+-> 위협을 잘 이해/완화하기 위해 cloud server에 대한 공격의 종류를 아는 것이 바람직하다.   
 ##### ANN의 사용은 IDS에서 발견되었다.  
 -> 이러한 시스템을 neural system의 생물학적 모델에 더 가깝게 만들기 위해 저자는 높은 효율의 IDS를 만들기위해 SNN을 배치하였다.  
 ##### SNN은 단순화된 수학 모델인 artificial neuron model보다 biological neuron을 더 가깝게 모방하는 spiking neuron을 배치한다.  
@@ -21,3 +21,11 @@
 -> 먼저 악성 연결과 비악성 연결을 정확하게 분류하여 ANN과 SNN의 장점을 결합한다.  
 -> 그 다음 악성 연결에서 수행된 악성 활동의 유형을 확인한다.  
 -> 이렇게 하면 클라우드에서 수행 중인 공격을 빠르게 확인할 수 있으므로 악의적인 연결을 검역할 수 있다.
+***
+### Related Works  
+### Preliminary Study  
+### Dataset  
+### Proposed Model  
+
+### Result and Analysis  
+### Conclusion
