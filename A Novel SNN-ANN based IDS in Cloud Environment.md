@@ -29,6 +29,9 @@
 
 ### Result and Analysis  
 ### Conclusion  
-본 논문의 Result and Analysis 부분에서 저자가 제시한 수치는 anomalous connections로 제기된 공격 유형으로 추가 분류를 하기 전에 이상 연결을 식별하는 데 snn을 사용하는 것의 참신성을 확립하는 데 도움이 된다.  
-침입을 정확하게 탐지하는 것이 IDS의 가장 바람직한 목표이며, 저자가 제안한 모델을 통해 이를 설계할 수 있다.  
-snn과 biological neuron model의 근접성은 artificial neuron보다 학습을 더 잘 모방할 수 있게 해준다.  
+##### 본 논문의 Result and Analysis 부분에서 저자가 제시한 수치는 anomalous connections로 제기된 공격 유형으로 추가 분류를 하기 전에 이상 연결을 식별하는 데 snn을 사용하는 것의 참신성을 확립하는 데 도움이 된다.  
+-> 침입을 정확하게 탐지하는 것이 IDS의 가장 바람직한 목표이며, 저자가 제안한 모델을 통해 이를 설계할 수 있다.  
+-> snn과 biological neuron model의 근접성은 artificial neuron보다 학습을 더 잘 모방할 수 있게 해준다.  
+-> 이 논문은 snn을 할용하여 클라우드 환경에서 IDS 시스템의 개선을 보여준다.  
+##### artificial neural network를 통해 향상된 정확도를 얻음으로써, 시간 독립적인 NSL-KDD dataset에 시간 의존적인 neuron model의 사용 가능성을 제안한다.  
+-> non-time varying dataset에 의존하는 주요 애플리케이션에서 ANN을 대체하기 위한 SNN의 효율적인 사용을 확립할 수 있을 것이다.
