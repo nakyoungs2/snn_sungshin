@@ -28,4 +28,7 @@
 ### Proposed Model  
 
 ### Result and Analysis  
-### Conclusion
+### Conclusion  
+본 논문의 Result and Analysis 부분에서 저자가 제시한 수치는 anomalous connections로 제기된 공격 유형으로 추가 분류를 하기 전에 이상 연결을 식별하는 데 snn을 사용하는 것의 참신성을 확립하는 데 도움이 된다.  
+침입을 정확하게 탐지하는 것이 IDS의 가장 바람직한 목표이며, 저자가 제안한 모델을 통해 이를 설계할 수 있다.  
+snn과 biological neuron model의 근접성은 artificial neuron보다 학습을 더 잘 모방할 수 있게 해준다.  
