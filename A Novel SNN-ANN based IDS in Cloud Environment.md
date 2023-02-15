@@ -22,9 +22,7 @@
 -> 그 다음 악성 연결에서 수행된 악성 활동의 유형을 확인한다.  
 -> 이렇게 하면 클라우드에서 수행 중인 공격을 빠르게 확인할 수 있으므로 악의적인 연결을 검역할 수 있다.
 ***
-### Related Works  
-### Preliminary Study  
-### Dataset  
+### Related Works / Preliminary Study / Dataset  
 ***
 ### Proposed Model  
 ##### 클라우드 네트워크의 보안에 대한 우려가 증가함에 따라 많은 조직과 개인이 전문적인 요구사항을 위해 클라우드 서비스로 전환을 하게 되었고, 이에 따라 더 나은 IDS의 필요성이 증가하였다.  
